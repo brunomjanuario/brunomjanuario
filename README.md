@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunomjanuario
 - 👀 I’m interested in code
-- 🌱 I’m currently learning CSS, JS and JAVA
+- 🌱 I’m currently working as Software Developer at Deloitte
 - 💞️ I’m looking to collaborate on fancy projects
 - 📫 How to reach me @brunomjanuario on Twitter or Instagram
 
